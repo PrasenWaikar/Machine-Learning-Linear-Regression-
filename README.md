@@ -1,1 +1,2 @@
 # Machine-Learning-Linear-Regression-
+This machine learning project, titled ROI Forecaster, focuses on predicting sales outcomes from advertising investments in television, radio, and newspapers. Utilizing techniques such as linear regression, EDA, and data visualization, it helps businesses identify the most effective strategies to enhance their ROI. The model evaluates historical trends to optimize resource allocation for higher sales impact.
